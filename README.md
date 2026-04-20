@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في ليالي الغرام
+> روحي تنادي لك في كل مقام
+> قلبي ينبض بحبك في الظلام
+> أنت الأمل وأنت كل الأحلام
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
