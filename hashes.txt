@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta Sabab Haga Kbeer
+
+This log tracks the cryptographic history and versioning for the song **Enta Sabab Haga Kbeer** (enta-sabab-haga-kbeer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:32:26.347653 | `v1` | `4d4e498f126d72afaa15a785ef8b9121cb39931e7660b22a90e78c2fbb05f2ed` | `b5b111536841dc91a58462df87555c52b0de05dcadb051d648ae3f08884359be` | `2026-05-09_enta-sabab-haga-kbeer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
